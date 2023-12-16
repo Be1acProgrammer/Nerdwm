@@ -1,2 +1,7 @@
 # Nerdwm
-nerdwm is my clean build of dwl wayland compositor
+
+* clone it
+
+```bash
+$ https://github.com/Be1acProgrammer/prowm.git
+```
